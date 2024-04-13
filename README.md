@@ -4,6 +4,8 @@ This tool assists Instagram users in managing their follower relationships by id
 they follow but who do not follow them back. Users can review these non-followers and either add them to a whitelist (if
 they wish to continue following them regardless) or flag them for potential unfollowing.
 
+This tool operates without requiring your login credentials and complies with Instagram's terms of service.
+
 ## Step 1: Download your Instagram data
 
 1. Follow the instructions on the [Instagram website](https://help.instagram.com/181231772500920) to download your data.
